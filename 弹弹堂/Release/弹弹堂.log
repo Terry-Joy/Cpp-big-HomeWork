@@ -1,0 +1,8 @@
+﻿  global.cpp
+E:\xuexi\c++project\弹弹堂\弹弹堂\global.cpp(318,25): warning C4244:  “=”: 从“float”转换到“LONG”，可能丢失数据
+  正在生成代码
+  545 of 705 functions (77.3%) were compiled, the rest were copied from previous compilation.
+    435 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  弹弹堂.vcxproj -> E:\xuexi\c++project\弹弹堂\Release\弹弹堂.exe
